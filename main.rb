@@ -3,8 +3,8 @@ require "./variable"
 require "./constant"
 require "./expression"
 
-# COMP2150 A4
-# Pylypenko Maksym 7802672
+# Math expression solver
+# Pylypenko Maksym
 # pylypenm@myumanitoba.ca
 
 #------------------------------------------------
